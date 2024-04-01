@@ -1,4 +1,5 @@
 import { getAllEntriesSchema } from "../../schemas/get-all-entries-schema";
+//cometarios
 
 /// <reference types="cypress" />
 
