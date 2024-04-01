@@ -1,5 +1,5 @@
 /// <reference types="cypress" />
-
+//coment
 describe('Cart feature', () => {
 
   beforeEach(() => {

@@ -1,4 +1,5 @@
 /// <reference types="cypress" />
+//coment
 
 describe('Filter by category feature', () => {
     it("TC-004: BE | Filter products by phone category", () => {

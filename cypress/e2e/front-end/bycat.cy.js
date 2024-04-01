@@ -1,5 +1,5 @@
 /// <reference types="cypress" />
-
+//coment
 describe('Filter by category feature', () => {
 
     beforeEach(() => {
