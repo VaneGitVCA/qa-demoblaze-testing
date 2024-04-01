@@ -1,4 +1,6 @@
 /// <reference types="cypress" />
+// Se agregar comentarios
+//Considerar punto y comas y identificar errores
 
 describe('Cart feature', () => {
   it("TC-001: BE | Add new product to cart", () => {
